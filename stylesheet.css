@@ -57,6 +57,7 @@ header {
 }
 
 .lesson-wrapper {
+  padding-left: 30px;
   height: auto;
   padding-bottom: 80px;
   background-color: #f7f7f7;
